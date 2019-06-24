@@ -2,7 +2,7 @@ PLAN LIST
 
 - learn git
   * update how to code nicely and well organized.
-  * add 2nd line
+  * watch all tutorial videos about git
 - create awesome website
 - register at flight school
 - join airline
